@@ -1,0 +1,4 @@
+pretty_logging>=0.0.2
+requests>=2.18.4
+redis==2.10.6
+pytest==5.0.1

@@ -1,4 +1,4 @@
-# wali-py-skel
+# 脚本框架
 
 Usage:
 
