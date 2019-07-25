@@ -8,6 +8,7 @@
 /package/pip.conf
 /package/requirements.txt
 #一些临时文件
+package-lock.json
 *.pyc
 .version
 node_modules
